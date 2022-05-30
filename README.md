@@ -2,4 +2,5 @@
 
 ## using new version bootstrap and adding empty img and js folders.
 
-** creating mobile friendly website **
+
+**creating mobile friendly website**
